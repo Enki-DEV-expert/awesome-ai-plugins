@@ -13690,6 +13690,21 @@
       "repo": "RTL_OpenCode",
       "url": "https://github.com/programmer-1998/RTL_OpenCode",
       "installation_url": "https://github.com/programmer-1998/RTL_OpenCode#readme"
+    },
+    {
+      "name": "Global Engineering Standards",
+      "displayName": "Global Engineering Standards",
+      "description": "Twelve engineering standards and six Claude Code and Codex skills for security, privacy, cost and architecture, installable with `npm install -g @enki-dev-expert/global-engineering-standards`",
+      "category": "Agent Skills",
+      "source": "awesome-ai-plugins",
+      "platform": "agent-skills",
+      "ecosystems": [
+        "agent-skills"
+      ],
+      "owner": "Enki-DEV-expert",
+      "repo": "engineering-standards",
+      "url": "https://github.com/Enki-DEV-expert/engineering-standards",
+      "installation_url": "https://github.com/Enki-DEV-expert/engineering-standards#readme"
     }
   ]
 }
